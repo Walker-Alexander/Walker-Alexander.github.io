@@ -46,13 +46,9 @@ h7 {
 }
 
 #top-bar-about a{
-    position: absolute;
-    right: 10px;
-}
-
-#top-bar-about h1{
     text-shadow: 3px 3px black;
-    color: rgb(148, 35, 35);
+    font-size: xx-large;
+    text-decoration: none;
 }
 
 
@@ -70,12 +66,9 @@ h7 {
 }
 
 #top-bar a{
-    position: absolute;
-    right: 10px;
-}
-
-#top-bar h1{
     text-shadow: 3px 3px black;
+    font-size: xx-large;
+    text-decoration: none;
     color: rgb(148, 35, 35);
 }
 
